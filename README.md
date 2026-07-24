@@ -1,4 +1,5 @@
 # Project1
+# main 分支命名
 
 这是我的第一个 VS Code Git 项目。
 
